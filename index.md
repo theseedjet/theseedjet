@@ -14,4 +14,4 @@ Complete the team. Put everything in place. Launch. Measure.
 
 ## Let investors find you
 
-Just focus on building your business. You will find the right investors here.
+Just focus on building your business. You will find here the right investors for you.
