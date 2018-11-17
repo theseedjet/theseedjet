@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# theseedjet
 
-You can use the [editor on GitHub](https://github.com/theseedjet/theseedjet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A platform to build, assess and fund your startup in real time from scratch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leverage your startup's data right from the beginning. Let us assemble proof-of-solving in the background and deliver hard evidence to your potential investors.
 
-### Markdown
+## Fundraising by solving 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Stop networking. Be data-driven. Entrust your success to your solving skills. 
 
-```markdown
-Syntax highlighted code block
+## Real time launch 
 
-# Header 1
-## Header 2
-### Header 3
+Complete the team. Put everything in place. Launch. Measure.
 
-- Bulleted
-- List
+## Let investors find you
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theseedjet/theseedjet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Just focus on building your business. You will find the right investors here.
